@@ -10,7 +10,7 @@ body {
 }
 .container {
   width: 320px;
-  height: 500px;
+  height: 550px;
   border-collapse: collapse;
 }
 .name {
@@ -169,12 +169,11 @@ input{
    margin-left: 10px;
 }
 .detail1{
-
   position: absolute;
   top:100px;
   border: 1px solid black;
   width: 320px;
-  height: 455px;
+  height: 500px;
   background-color:white;
   z-index: 5;
 }
@@ -185,7 +184,7 @@ input{
   top:100px;
   border: 1px solid black;
   width: 320px;
-  height: 455px;
+  height: 500px;
   background-color:white;
   z-index: 5;
 }
@@ -196,7 +195,7 @@ input{
   top:100px;
   border: 1px solid black;
   width: 320px;
-  height: 455px;
+  height: 500px;
   background-color:white;
   z-index: 5;
 }
@@ -207,7 +206,7 @@ input{
   top:100px;
   border: 1px solid black;
   width: 320px;
-  height: 455px;
+  height: 500px;
   background-color:white;
   z-index: 5;
 }
@@ -215,7 +214,7 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 td, th {
@@ -242,5 +241,5 @@ border-radius: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5px;
+  padding: 10px;
 }
